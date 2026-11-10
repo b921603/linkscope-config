@@ -1,0 +1,55 @@
+{
+  "remoteConfigUrl": "https://raw.githubusercontent.com/b921603/linkscope-config/main/partner.json",
+  "sponsorUrl": "https://greasyfork.org/scripts/604584-linkscope-hyperlink-ip-geo-redirect-inspector/feedback",
+  "feedbackUrl": "https://greasyfork.org/scripts/604584-linkscope-hyperlink-ip-geo-redirect-inspector/feedback",
+  "domainRegistrarUrl": "https://www.namecheap.com/domains/registration/results/?domain={domain}",
+  "securityVpnUrl": "https://protonvpn.com/",
+  "privacyShieldUrl": "https://nextdns.io/",
+  "travelEsimUrl": "https://www.airalo.com/",
+  "cryptoSecurityUrl": "https://www.tradingview.com/chart/",
+  "aiCloudUrl": "https://www.runpod.io/",
+  "gamingDealUrl": "https://isthereanydeal.com/search/?q={domain}",
+  "courseDealUrl": "https://www.classcentral.com/search?q={domain}",
+  "universalAggregator": {
+    "enabled": false,
+    "redirectTemplate": ""
+  },
+  "adNetwork": {
+    "enableContextualBar": true,
+    "enableDrawerSponsorSlot": true,
+    "aadsUnitId": "",
+    "customBannerHtml": "",
+    "customBannerUrl": ""
+  },
+  "cloudLinks": {
+    "Cloudflare": "https://www.cloudflare.com/",
+    "DigitalOcean": "https://www.digitalocean.com/",
+    "Vultr": "https://www.vultr.com/",
+    "Hetzner": "https://www.hetzner.com/cloud",
+    "Akamai": "https://www.linode.com/",
+    "Linode": "https://www.linode.com/",
+    "Hostinger": "https://www.hostinger.com/",
+    "Cloudways": "https://www.cloudways.com/",
+    "RackNerd": "https://www.racknerd.com/",
+    "Contabo": "https://contabo.com/",
+    "Kamatera": "https://www.kamatera.com/"
+  },
+  "ecommerceTags": {
+    "amazon.com": { "param": "tag", "value": "" },
+    "amazon.co.jp": { "param": "tag", "value": "" },
+    "shopee.tw": { "param": "af_siteid", "value": "" },
+    "aliexpress.com": { "param": "aff_fcid", "value": "" },
+    "booking.com": { "param": "aid", "value": "" },
+    "agoda.com": { "param": "cid", "value": "" },
+    "klook.com": { "param": "aid", "value": "" },
+    "kkday.com": { "param": "cid", "value": "" },
+    "binance.com": { "param": "ref", "value": "" },
+    "bybit.com": { "param": "affiliate_id", "value": "" },
+    "okx.com": { "param": "channelId", "value": "" },
+    "tradingview.com": { "param": "aff_id", "value": "" },
+    "ledger.com": { "param": "r", "value": "" },
+    "humblebundle.com": { "param": "partner", "value": "" },
+    "fanatical.com": { "param": "ref", "value": "" },
+    "udemy.com": { "param": "aff_code", "value": "" }
+  }
+}
